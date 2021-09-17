@@ -1,1 +1,2 @@
 some-text  
+add string from develop-another
